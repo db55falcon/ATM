@@ -1,10 +1,4 @@
-"""Write a Python program that simulates an ATM. The program should have the following functionality:
 
-Allow the user to withdraw money from their account
-Allow the user to deposit money into their account
-Allow the user to transfer money to another account
-Display the user's account balance
-Handle invalid input and insufficient funds errors"""
 import csv
 import datetime
 
