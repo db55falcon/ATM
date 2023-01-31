@@ -1,0 +1,9 @@
+event_type,success,date
+withdraw,False,2023-01-31 00:20:31.895087
+withdraw,False,2023-01-31 00:23:23.192745
+transfer,True,2023-01-31 00:32:39.833025
+deposit,True,2023-01-31 00:32:54.524220
+withdraw,True,2023-01-31 00:33:26.414133
+withdraw,True,2023-01-31 00:33:47.891969
+transfer,True,2023-01-31 00:34:38.204092
+view balance,True,2023-01-31 00:34:59.251301
